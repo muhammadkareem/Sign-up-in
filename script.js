@@ -57,6 +57,6 @@ function logIn(){
     }
     else if(email === usremail && pass === usrPass){
         alert("Login Succesful..!");
-        return document.location.href = "#";
+        return document.location.href = "https://muhammadkareem.github.io/My-Portfolio/";
     }
 }
